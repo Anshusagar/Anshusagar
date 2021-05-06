@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshu Sagar</h1>
-<h3 align="center">A web developer 👨🏻‍💻 . I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that I can succesfully center an element with css. Beside's Hacking stuff, I play TPP gaming.</h3>
+<h3 align="center">A web developer 👨🏻‍💻 . I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for products.I'm proud to say that I can succesfully center an element with css. Beside's Hacking stuff, I play TPP gaming.</h3>
 
 - 👨‍💻 All of my projects are available at [https://anshu-sagar.herokuapp.com/](https://anshu-sagar.herokuapp.com/)
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anshu-sagar-77691876/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anshu-sagar-77691876/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anshu-sagar-77691876/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="https://www.linkedin.com/in/anshu-sagar-77691876/" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
