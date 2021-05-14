@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshu Sagar</h1>
 <h3 align="center">A web developer 👨🏻‍💻 . I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for products.I'm proud to say that I can succesfully center an element with css. Beside's Hacking stuff, I play TPP gaming.</h3>
 
-- 👨‍💻 All of my projects are available at [https://anshu-sagar.herokuapp.com/](https://anshu-sagar.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://anshu-sagar.netlify.app/](https://anshu-sagar.netlify.app/)
 
 - 💬 Ask me about **React , JavaScript**
 
